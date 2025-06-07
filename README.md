@@ -1,3 +1,5 @@
+[![Powered by DartNode](https://dartnode.com/branding/DN-Open-Source-sm.png)](https://dartnode.com "Powered by DartNode - Free VPS for Open Source")
+
 ---
 title: GitHub项目精选
 date: 2019-03-22 18:15:39
@@ -2160,6 +2162,3 @@ sticky: 100
 [苏联台风级核潜艇](https://imgur.com/a/xi3P3)  
 
 > 苏联台风级核潜艇，诞生于上个世纪80年代，是世界最大的核潜艇。标题链接收集了100多张历史照片，详细回顾了这个巨无霸的历史。它一共建造了6艘，由于耗资巨大，苏联无力维持，目前已经全部退役。  
-
-
-[![Powered by DartNode](https://dartnode.com/branding/DN-Open-Source-sm.png)](https://dartnode.com "Powered by DartNode - Free VPS for Open Source")
