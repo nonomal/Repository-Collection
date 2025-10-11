@@ -1,11 +1,3 @@
-![](https://aliyun-oss-coderhuye.oss-cn-hangzhou.aliyuncs.com/blog/2021-06-16-pilot-ceb143.jpeg)
-
-<strong style="color:#c04851;">A collection of useful repositories.</strong>
-
-<!-- more -->
-
----
-
 ## 写在前面
 
 看到这个项目的同好们如果有推荐的 Github 项目或是觉得有用、有趣的网站等都可以发起 issue 或 PR。  
